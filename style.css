@@ -1,0 +1,17 @@
+h1{
+    color: blue;
+    background-color: darkseagreen;
+    border: double;
+    border-color: blue;
+
+}
+
+pegion{
+    border: dotted;
+    border-color: black;
+}
+
+cicada{
+    border: dotted;
+    border-color: green;
+}
